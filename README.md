@@ -1,5 +1,7 @@
 # Python-program
 python program to find factorial of a number
+
+
 def NumberCheck(a):   
       
     if a > 0:   
